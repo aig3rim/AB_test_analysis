@@ -12,9 +12,9 @@ You need an installation of Python, plus the following libraries:
 
 ## Statistical analysis
 * [Bootstrapping sampling distributions](https://towardsdatascience.com/an-introduction-to-the-bootstrap-method-58bcb51b4d60) and p-value calculations
-* Z-core tests
+* Z-core test
 * Logistic regression
-* Multiple linear regression modelling to assess for interactions of independent variables
+* Multiple linear regression
 
 ## Key findings
 * The conversion rate for the new page is not better than for the old page
